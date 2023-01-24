@@ -1,0 +1,8 @@
+{
+  "name": "@erotiqa/medusa-strapi-template",
+  "version": "1.0.0",
+  "description": "Strapi template for Medusa Ecommerce",
+  "main": "index.js",
+  "author": "Robbin van der Peijl",
+  "license": "MIT"
+}
